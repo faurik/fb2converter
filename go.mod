@@ -1,4 +1,4 @@
-module fb2converter
+module github.com/faurik/fb2converter
 
 go 1.20
 
